@@ -4,13 +4,13 @@ Java application with a 4-layered architecture: data access layer ([domain packa
 
 Application for a social network with JavaFX graphical interface which supports operations such as:
 
-Add user
-Remove user
-Add friend
-Revove friend
-Display number of communities (the number of connected components in the network graph)
-Display the most sociable community (the connected component in the network with the longest path)
-Display all friendships of a user read from the keyboard
-Display all the friendships of a user, created in a certain month of the year, the user and the month of the year are read from the keyboard
-Display (chronologically) the conversations of two users, read from the keyboard
-Simulate sending a friendship invitation and adding the relationship only if the invited user accepts it. The status of the requests is pending, approved or rejected.
+1. Add user
+2. Remove user
+3. Add friend
+4. Revove friend
+5. Display number of communities (the number of connected components in the network graph)
+6. Display the most sociable community (the connected component in the network with the longest path)
+7. Display all friendships of a user read from the keyboard
+8. Display all the friendships of a user, created in a certain month of the year, the user and the month of the year are read from the keyboard
+9. Display (chronologically) the conversations of two users, read from the keyboard
+10. Simulate sending a friendship invitation and adding the relationship only if the invited user accepts it. The status of the requests is pending, approved or rejected.
