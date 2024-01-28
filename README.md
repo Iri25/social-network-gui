@@ -4,7 +4,7 @@ Java application with a 5-layered architecture: data access layer ([domain packa
 
 Key concepts are abstraction, encapsulation, inheritance, polymorphism, validations, exceptions, reading from files and storing in files, reading from a database and storing from a database.
 
-Application for a social network with a graphical interface which supports operations such as:
+Desktop application for a social network with a graphical interface which supports operations such as:
 
 1. Add user
 2. Remove user
